@@ -1,0 +1,1 @@
+# DataAnalytics-Python-Homework_2.1_by_Akim_Aliyev
